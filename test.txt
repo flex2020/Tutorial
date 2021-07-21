@@ -1,2 +1,2 @@
-I love you
-from local
+hi
+edited from remote
